@@ -1,0 +1,7 @@
+CARA LOGIN ADMIN
+1. Masuk ke halaman/menu Login
+2. Pilih bagian login for admin
+3. Isikan username : restika
+4. Isikan password : rahasia
+5. klik login
+6. jika login berhasil akan masuk halaman admin.
